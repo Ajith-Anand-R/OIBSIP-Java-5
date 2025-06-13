@@ -1,0 +1,3 @@
+Timestamp           | Action | BookID | User  | TransactionID
+--------------------|--------|--------|-------|--------------
+2025-05-25 00:20:09 | RETURN | 1      | ajith | 1
